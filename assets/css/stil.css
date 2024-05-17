@@ -1,0 +1,92 @@
+
+ 
+* {
+    text-decoration: none;
+}
+
+body {
+    background: #1F3757;
+
+}
+
+.header {
+    border: 3px solid #FFFFFF4A;
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+height: 150px;
+margin-top: 48px;
+margin-left: 433px;
+}
+
+.header h1 {
+    box-shadow: 0px 3px 3px 0px #00000032;
+    width: 155.48px;
+    height: 92.68px;
+    color: white;
+    margin-left: 30px;
+}
+
+.scoretable {
+background-color: white;
+width: 150px;
+height: 114px;
+margin-right: 30px;
+border-radius: 15px;
+text-align: center;
+margin-top: 20px;
+box-shadow: 0px 3px 3px 0px #00000032;
+
+}
+
+.scoretable h4 {
+    color: #33619e;
+}
+
+.container {
+    width: 476px;
+height: 430px;
+margin-top: 48px;
+margin-left: 565px;
+
+}
+
+.tas {
+    margin-left: 130px;
+    width: 198px;
+height: 203px;
+
+}
+
+.makas {
+    margin-left: 40px;
+    width: 198px;
+height: 203px;
+}
+
+.kagit {
+    width: 198px;
+height: 203px;
+}
+
+.rules {
+    color: white;
+    width: 208px;
+height: 50px;
+border: 1px solid #FFFFFF;
+margin-left: 800px;
+font-family: Barlow Semi Condensed;
+font-size: 16px;
+font-weight: 600;
+line-height: 19.2px;
+letter-spacing: 2.5px;
+text-align: center;
+}
+
+.rules:hover {
+    background: linear-gradient(0deg, #F3F3F3 0%, #FFFFFF 100%);
+   color: #3B4262;
+   
+}
+
+}
